@@ -1,0 +1,1 @@
+This github repo contains the frontend source code for my youtube tutorial on how to build a complete register / login system on AWS with React.js, lambda, API gateway and dynamodb (https://www.youtube.com/watch?v=ReNkQ0Xkccw)
